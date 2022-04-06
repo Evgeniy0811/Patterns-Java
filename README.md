@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bh4b5yq2gl4v966l?svg=true)](https://ci.appveyor.com/project/Evgeniy0811/patterns-java)
